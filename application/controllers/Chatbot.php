@@ -39,4 +39,9 @@ class Chatbot extends CI_Controller {
 	{
 		echo "hi";
 	}
+
+	public function hi()
+	{
+		echo "hi";
+	}
 }
